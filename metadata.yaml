@@ -1,4 +1,5 @@
 _repo: The-Coronado-Expedition-1540-1542-Excerpted-from-the-Fourteenth-Annual-Report-of-the-Bureau-o__50448
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -11,12 +12,17 @@ contributor:
       gutenberg_agent_id: '7040'
       url: http://www.gutenberg.org/2009/agents/7040
       wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+covers:
+- cover_type: archival
+  image_path: 50448-h/images/cover.jpg
 creator:
   author:
     agent_name: Winship, George Parker
     gutenberg_agent_id: '45914'
     url: http://www.gutenberg.org/2009/agents/45914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50448#The-Coronado-Expedition-1540-1542-Excerpted-from-the-Fourteenth-Annual-Report-of-the-Bureau-o_
 gutenberg_issued: '2015-11-14'
 gutenberg_type: Text
 identifiers:
